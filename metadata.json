@@ -1,0 +1,8 @@
+{
+  "name": " আরবি সহজ",
+  "description": "বাংলাভাষীদের জন্য আরবি বর্ণ, শব্দ ও কুরআন শেখার সহজ ও ইন্টারঅ্যাক্টিভ মোবাইল-ফ্রেন্ডলি ওয়েব প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
